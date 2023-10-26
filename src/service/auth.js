@@ -3,7 +3,7 @@ const headers = {
   "Content-Type": "application/json",
 };
 
-const baseUrl = 'https://burguer-queen-api-mock.vercel.app/'
+const baseUrl = 'https://dev-008-burguer-queen-api-mock.vercel.app/'
 
 
 export const loginAuth = async (credentials) => {

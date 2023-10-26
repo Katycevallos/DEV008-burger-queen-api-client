@@ -1,7 +1,7 @@
 
 
 // const baseUrl = 'https://virtserver.swaggerhub.com/ssinuco/BurgerQueenAPI/2.0.0'
-const baseUrl = 'https://burguer-queen-api-mock.vercel.app/'
+const baseUrl = 'https://dev-008-burguer-queen-api-mock.vercel.app/'
 
 
 //metodo para consumir endPoint con el metodo get 
