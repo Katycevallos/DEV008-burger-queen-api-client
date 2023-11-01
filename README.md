@@ -30,9 +30,9 @@ Descubre cómo Burger Queen Api Client puede mejorar tus procesos internos y bri
 
 | Credencial |Correo electrónico| Contraseña |
 |---------------------------------|------------------|------------|
-| Administrador |  anita.borg@systers.xyz  | 123456
-| Mesero        | katycevallos127@gmail.com | 1234
-| Chef          | aleja@gmail.com | 1234
+| Administrador |  mari@gmail.com  | 1234
+| Mesero        | luz@gmail.com | 1234
+| Chef          | Marzu@gmail.com | 12345678
 
 Es importante destacar que los usuarios creados a través de la credencial del administrador tendrán automáticamente la contraseña "1234".
 
